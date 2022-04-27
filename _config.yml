@@ -16,16 +16,10 @@ lang: "en_US"
 title: "The Overdressed Diaries"
 description: "Sometimes stressed, and always overdressed fashion blog."
 url: https://sophrodri.github.io/
-baseurl: /lone-wolf-theme/
+baseurl:/lone-wolf-theme/
 author: Sophia Rodriguez 
 logo: assets/images/the overdressed diaries.png 
 instagram: https://instagram.com/the.overdressed.diaries/
-webmaster_verifications:
-  google: # 1234
-  bing: # 1234
-  alexa: # 1234
-  yandex: # 1234
-  baidu: # 1234
 
 # comments settings
 comments:
