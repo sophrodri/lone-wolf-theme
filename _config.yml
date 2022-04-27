@@ -18,20 +18,8 @@ description: "Sometimes stressed, and always overdressed fashion blog."
 url: https://sophrodri.github.io/
 baseurl: /lone-wolf-theme/
 author: Sophia Rodriguez 
-twitter:
-  username: mani_d2 # should be site's username
-  card: summary
 logo: assets/images/the overdressed diaries.png 
-instagram: "instagram.com/the.overdressed.diaries"
-# PNG is SEO friendly
-# use below when there are social links for site
-#social:
-#  name: Mani Kumar
-#  links:
-#    - https://twitter.com/mani_d2
-#    - https://www.linkedin.com/in/manid2/
-#    - https://github.com/manid2
-# site verifications,
+instagram: https://instagram.com/the.overdressed.diaries/
 webmaster_verifications:
   google: # 1234
   bing: # 1234
